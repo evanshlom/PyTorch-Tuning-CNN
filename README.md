@@ -1,5 +1,5 @@
-# PyTorch-Tuning-CNN
-Compared optimizers and learning rates of PyTorch CNN for image classification.
+# PyTorch-Tuning-Neural-Network
+Compared optimizers and learning rates of PyTorch deep neural network for image classification.
 
 ## Image Dataset
 The Fashion-MNIST dataset contains 60,000 training images (and 10,000 test images) of fashion and clothing items, taken from 10 classes. Each image is a standardized 28x28 size in grayscale (784 total pixels).
